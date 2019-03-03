@@ -24,7 +24,7 @@ PyTorch multi-GPU.
 ## Installation
 
 ```
-pip install git+https://github.com/szagoruyko/pyinn.git@master
+pip install git+https://github.com/arthur-qiu/pyinn.git@master
 ```
 
 ## Example
